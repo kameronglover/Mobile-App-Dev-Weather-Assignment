@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <string name="temp">Tempature</string>
+    <string name="temp_max">Tempature Max</string>
+    <string name="temp_min">Tempature Min</string>
+    <string name="desciption">Description</string>
+    <string name="humid">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_deg">Wind Degree</string>
+    <string name="cloud">Cloudiness</string>
+    <string name="check">Check Forecast</string>
+</resources>
